@@ -1,7 +1,7 @@
 # tarantool
 Tarantool lua template
 
-app.lua is a my template for fast tarantool db creating.
+Here is my template for fast tarantool db creating. check app.lua
 just write a db struct and thats it
 
 ## Just descibe a db
