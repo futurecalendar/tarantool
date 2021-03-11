@@ -1,10 +1,8 @@
-# tarantool
-Tarantool lua template
-
+# Tarantool DB Template
 Here is my template for fast tarantool db creating. check app.lua
-just write a db struct and thats it
+Just describe a db struct and thats it.
 
-## Just descibe a db
+## Create a db
 ```lua
 --db name
 db.accounts = {
