@@ -1,5 +1,5 @@
 # Tarantool DB Template
-Here is my template for fast tarantool db creating. check app.lua
+Here is my template for fast tarantool db creating. check [app.lua](https://github.com/futurecalendar/tarantool/blob/main/app.lua)
 Just describe a db struct and thats it.
 
 ## Create a db
