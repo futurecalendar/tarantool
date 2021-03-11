@@ -20,7 +20,7 @@ db.accounts = {
 }
 ```
 
-Then use it
+## Use
 ```lua
 db.accounts:replace({1, 'nice@apple.com', '12345'})
 ```
